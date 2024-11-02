@@ -4,7 +4,7 @@ Assignment 1: Go thru the two demo youtube videos of colabs discussed in the cla
 I have implemented all the codes shown in Derek Banas video and advanved colab tutorials. And i have uploaded the same.
 
 Assignment2: Use AI Pair Programmer ( either use claudedev (github), or cursor.so (paid) or Github copilot paid - students discount). You need to provide video of you using github copilot in visual studio code and having it code some interesting projects. You can add any other coding like backend, frontend and html demos if you want.
-Video Link : 
+Video Link : https://www.loom.com/share/023d2fb51e214d42966f15722f5e61c5
 
 Assignment3: Auto ML with akkio or jadbio or any other good zero code automl.
 
